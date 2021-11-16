@@ -35,4 +35,5 @@ Our team is constructing a multi-platform mobile application that will coordinat
 | Week 7      | 11          | 6           | 7         | 9           | 7            | 30        |
 | Week 8      | 9           | 7           | 7         | 7           | 5            | 35        |
 | Week 9      | 8           | 8           | 5         | 8.5         | 6            | 35.5      |
+| Week 10     | 0           | 6           | 0         | 0           | 0            | 0         |
 | Week X      | 0           | 0           | 0         | 0           | 0            | 0         |
