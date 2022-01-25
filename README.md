@@ -22,7 +22,7 @@ Our team is constructing a multi-platform mobile application that will coordinat
 * Technical Development Tools: GitHub
 * Technical Implementation Tools: AWS, Flutter, Nodejs, React, Github Pages, Polar SDK
 
-### Time Tracking
+### Time Tracking - Fall
 
 |Week         |Daniel Bjånes|Matt Ryan    |Wil Clancy |Cooper Farrar|Jake O’Donnell|Team       |
 |-------------|-------------|-------------|-----------|-------------|--------------|-----------|
@@ -37,4 +37,19 @@ Our team is constructing a multi-platform mobile application that will coordinat
 | Week 9      | 8           | 8           | 5         | 8.5         | 6            | 35.5      |
 | Week 10     | 11          | 6           | 3         | 6           | 7            | 33        |
 | Week 11     | 9           | 0           | 0         | 6           | 8            | 23        |
-| Week X      | 0           | 0           | 0         | 0           | 0            | 0         |
+
+### Time Tracking - Spring
+
+|Week         |Daniel Bjånes|Matt Ryan    |Wil Clancy |Cooper Farrar|Jake O’Donnell|Team       |
+|-------------|-------------|-------------|-----------|-------------|--------------|-----------|
+| Week 1      |             |             |           |             | 10           |           |
+| Week 2      |             |             |           |             |              |           |
+| Week 3      |             |             |           |             |              |           |
+| Week 4      |             |             |           |             |              |           |
+| Week 5      |             |             |           |             |              |           |
+| Week 6      |             |             |           |             |              |           |
+| Week 7      |             |             |           |             |              |           |
+| Week 8      |             |             |           |             |              |           |
+| Week 9      |             |             |           |             |              |           |
+| Week 10     |             |             |           |             |              |           |
+| Week 11     |             |             |           |             |              |           |
