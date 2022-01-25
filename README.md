@@ -42,7 +42,7 @@ Our team is constructing a multi-platform mobile application that will coordinat
 
 |Week         |Daniel Bjånes|Matt Ryan    |Wil Clancy |Cooper Farrar|Jake O’Donnell|Team       |
 |-------------|-------------|-------------|-----------|-------------|--------------|-----------|
-| Week 1      |             |             |           |             | 10           |           |
+| Week 1      |             |             |           | 10          | 10           |           |
 | Week 2      |             |             |           |             |              |           |
 | Week 3      |             |             |           |             |              |           |
 | Week 4      |             |             |           |             |              |           |
