@@ -20,7 +20,14 @@ Our team is constructing a multi-platform mobile application that will coordinat
 ### Project Tools and Techniques
 * Project ManagementTools: Trello, Discord/Email
 * Technical Development Tools: GitHub
-* Technical Implementation Tools: AWS, Flutter, Nodejs, React, Github Pages, Polar SDK
+* Technical Implementation Tools: Flutter, Polar SDK, Auth0, Node.js, GraphQL, Prisma, Heroku, Next.js, Vercel, Github Pages
+
+### Metrics
+The following links show where we're tracking our metrics, which are Earned Value, Estimation Accuracy, and Requirements Volatility.
+
+Our Earned Value and Estimation Accuracy are tracked on this [Google Sheet](https://docs.google.com/spreadsheets/d/1NxkGBFmafHHqRpXOHWQqSmHBv_DfeUr9-NHHRBVPrrM/edit?usp=sharing).
+
+Our Requirements Volatility is tracked on this [Google Sheet](https://docs.google.com/spreadsheets/d/1fK_C5WwsW3p7STDUyuaPRBzx7tsjAXNvmWld0wRO8CU/edit?usp=sharing).
 
 ### Time Tracking - Fall
 
