@@ -25,9 +25,8 @@ Our team is constructing a multi-platform mobile application that will coordinat
 ### Metrics
 The following links show where we're tracking our metrics, which are Earned Value, Estimation Accuracy, and Requirements Volatility.
 
-Our **Earned Value** and **Estimation Accuracy** are tracked on this [Earned Value Google Sheet](https://docs.google.com/spreadsheets/d/1NxkGBFmafHHqRpXOHWQqSmHBv_DfeUr9-NHHRBVPrrM/edit?usp=sharing).
-
-Our **Requirements Volatility** is tracked on this [Requirements Google Sheet](https://docs.google.com/spreadsheets/d/1fK_C5WwsW3p7STDUyuaPRBzx7tsjAXNvmWld0wRO8CU/edit?usp=sharing).
+* Our **Earned Value** and **Estimation Accuracy** are tracked on this [Earned Value Google Sheet](https://docs.google.com/spreadsheets/d/1NxkGBFmafHHqRpXOHWQqSmHBv_DfeUr9-NHHRBVPrrM/edit?usp=sharing).
+* Our **Requirements Volatility** is tracked on this [Requirements Google Sheet](https://docs.google.com/spreadsheets/d/1fK_C5WwsW3p7STDUyuaPRBzx7tsjAXNvmWld0wRO8CU/edit?usp=sharing).
 
 ### Time Tracking - Fall
 
