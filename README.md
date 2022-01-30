@@ -48,9 +48,9 @@ The following links show where we're tracking our metrics, which are Earned Valu
 
 |Week         |Daniel Bjånes|Matt Ryan    |Wil Clancy |Cooper Farrar|Jake O’Donnell|Team       |
 |-------------|-------------|-------------|-----------|-------------|--------------|-----------|
-| Week 1      | 10          | 8           |           | 10          | 8            |           |
+| Week 1      | 10          | 8           |           | 10          | 8            | 36        |
 | Week 2      | 9           | 9           |           |             | 10           |           |
-| Week 3      |             |             |           |             |              |           |
+| Week 3      |             |             |           |             | 11           |           |
 | Week 4      |             |             |           |             |              |           |
 | Week 5      |             |             |           |             |              |           |
 | Week 6      |             |             |           |             |              |           |
