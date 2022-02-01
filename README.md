@@ -22,6 +22,10 @@ Our team is constructing a multi-platform mobile application that will coordinat
 * Technical Development Tools: GitHub
 * Technical Implementation Tools: Flutter, Polar SDK, Auth0, Node.js, GraphQL, Prisma, Heroku, Next.js, Vercel, Github Pages
 
+[Project Trello Board](https://trello.com/b/ueuYUmMC/sprint-board) - This board is for HeartBit development
+
+[Class Requirements Trello Board](https://trello.com/b/sDzUpJU4/hrvb-project) - This board gets much less use and is for senior-project class-specific requirements
+
 ### Metrics
 The following links show where we're tracking our metrics, which are Earned Value, Estimation Accuracy, and Requirements Volatility.
 
