@@ -55,8 +55,8 @@ The following links show where we're tracking our metrics, which are Earned Valu
 | Week 1      | 10          | 8           | 3         | 7           | 8            | 36        |
 | Week 2      | 9           | 9           | 2         | 10          | 10           | 40        |
 | Week 3      | 10          | 10          | 1         | 8           | 11           | 40        |
-| Week 4      | 10          |             | 4         | 8           | 10           |           |
-| Week 5      | 10          |             | 6         | 9           | 10           |           |
+| Week 4      | 10          | 8           | 4         | 8           | 10           | 40        |
+| Week 5      | 10          | 6           | 6         | 9           | 10           | 41        |
 | Week 6      |             |             |           |             |              |           |
 | Week 7      |             |             |           |             |              |           |
 | Week 8      |             |             |           |             |              |           |
